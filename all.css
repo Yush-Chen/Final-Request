@@ -239,6 +239,9 @@ nav a:hover{
     padding: 82px 0;
 }
 
+.contact_icons ul{
+    list-style: none;
+}
 
 .contact_icons img{
     max-width: 44px;
